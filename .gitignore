@@ -1,0 +1,4 @@
+__pycache__/
+required_files/classified_data.json
+.idea/
+*.iml

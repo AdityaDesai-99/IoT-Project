@@ -1,0 +1,4 @@
+picamera
+sendgrid
+base64
+mfrc522
